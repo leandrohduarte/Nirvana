@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(35, 35, 35);
+  color: white;
+  font: normal 13pt calibri;
+  margin-top: 1cm;
+  margin-bottom: 1cm;
+  margin-left: 2cm;
+  margin-right: 2cm;
+}
+
+p {
+  text-align: justify;
+}
+
+#LeandroHDuarte{
+  text-align: center;
+}
+
+/* color: #f8b822 */
